@@ -32,7 +32,7 @@ Throughout my professional journey, I have acquired a range of core competencies
 - I am equipped with strong **analytical and organizational skills**, enabling me to handle large datasets, conduct rigorous analysis, and maintain data integrity throughout the process.
 - I possess a **multicultural and team player mindset**, allowing me to collaborate seamlessly with individuals from diverse backgrounds and effectively contribute to team projects.
 - I am proficient in utilizing **Microsoft Office Suite**, including Excel, Word, and PowerPoint, for data management, documentation, and presentation purposes.
-- With expertise in **Adobe Creative Suite**, specifically Corel Draw and Pixel Lab, I can create visually appealing graphics and illustrations to enhance data visualizations.
+- With knowledge in **Adobe Creative Suite**, specifically Corel Draw and Pixel Lab, I can create visually appealing graphics and illustrations to enhance data visualizations.
 - I am skilled in utilizing **project management tools** like Trello to organize and track project progress, ensuring timely and efficient completion.
 - I have proficiency in **statistical packages** such as SPSS, R, STATA, and Python, enabling me to perform advanced statistical analyses and modeling techniques.
 - With expertise in **database management and data visualization tools** such as SQL, Tableau, and Power BI, I can efficiently handle and analyze large datasets while creating visually compelling dashboards and reports.
