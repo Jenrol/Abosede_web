@@ -1,0 +1,57 @@
+---
+title: ""
+output: 
+  html_document:
+    theme: flatly
+---
+
+
+<hr>
+
+<a href="https://github.com/Otomisin?tab=repositories">
+  <img src="images/WelcomePage1.png" alt="Welcome Page">
+</a>
+
+<hr>
+
+## **Welcome to my page!**
+I'm Abosede Abigeal Jenrola, a data analyst with a passion for extracting insights from complex datasets. With a diverse background in economics, agriculture, and applied economics, I bring a unique perspective to data analysis and interpretation.
+
+Throughout my professional journey, I have acquired a range of core competencies, skills, and tools that enable me to excel in the field of data analytics. I am experienced in data collection, annotation, and preprocessing, assisting in advancing AI initiatives with the right training data at scale. I have conducted querying, categorization, transcription, translation, and image labeling tasks to support various projects.
+
+
+<!-- <center><img src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif"></center> -->
+
+
+**My core skills include:**
+
+- I have hands-on experience in **data collection, annotation, and preprocessing**, ensuring high-quality and reliable datasets for analysis.
+- I possess strong **research and literature review skills**, allowing me to gather relevant information and background knowledge for insightful data analysis.
+- With expertise in **data analysis and visualization**, I can uncover meaningful patterns, trends, and insights from complex datasets, translating them into visually compelling representations.
+- My **report writing and presentation skills** enable me to effectively communicate data-driven findings and recommendations to diverse audiences.
+- I am equipped with strong **analytical and organizational skills**, enabling me to handle large datasets, conduct rigorous analysis, and maintain data integrity throughout the process.
+- I possess a **multicultural and team player mindset**, allowing me to collaborate seamlessly with individuals from diverse backgrounds and effectively contribute to team projects.
+- I am proficient in utilizing **Microsoft Office Suite**, including Excel, Word, and PowerPoint, for data management, documentation, and presentation purposes.
+- With expertise in **Adobe Creative Suite**, specifically Corel Draw and Pixel Lab, I can create visually appealing graphics and illustrations to enhance data visualizations.
+- I am skilled in utilizing **project management tools** like Trello to organize and track project progress, ensuring timely and efficient completion.
+- I have proficiency in **statistical packages** such as SPSS, R, STATA, and Python, enabling me to perform advanced statistical analyses and modeling techniques.
+- With expertise in **database management and data visualization tools** such as SQL, Tableau, and Power BI, I can efficiently handle and analyze large datasets while creating visually compelling dashboards and reports.
+- I am experienced in utilizing **e-learning tools** like ispring suite and ispring lms, facilitating the creation of engaging and interactive online courses and training materials.
+- I am proficient in **survey tools** such as Kobo Toolbox and Google Forms, enabling me to design and administer surveys to collect data efficiently and accurately.
+- I have hands-on experience in using **data cleaning and analysis tools**, including Google Data Analytics, R, and Excel, to preprocess and analyze data, ensuring data quality and extracting meaningful insights.
+
+<center><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAwNjJiYjBlNGI1YTk1NWZkYmYxOWYyNGRkMjY1MGVlNzY3YzI0MSZjdD1n/33PMXr72xOqBdOUzTO/giphy.gif"></center>
+
+<br>
+Thanks for stopping by! If you have any questions or would like to work together, please don't hesitate to [contact me](mailto:jenrolabosede3001(@)gmail.com).
+<hr>
+![](images/Page2.png){ width=200% height=50% }
+<hr>
+<div class="icons">
+  <a href="mailto:jenrolabosede3001(@)gmail.com"><i class="fas fa-envelope fa-2x"></i></a>
+  <a href="www.linkedin.com/in/Jenrola-Abosede"><i class="fab fa-linkedin fa-2x"></i></a>
+  <a href="https://github.com/Jenrol"><i class="fab fa-github fa-2x"></i></a>
+</div>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+
+

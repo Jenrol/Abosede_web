@@ -1,0 +1,11 @@
+name: "Abosede Web"
+navbar:
+  title: "Abosede Lab"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Portfolio"
+      href: portfolio.html
+    - text: "Connect"
+      href: Contacts.html
+output_dir: "docs"

@@ -1,0 +1,28 @@
+---
+title: "Portfolio Porjects(In progress)"
+# author: "Oluwatosin Orenaike"
+output: 
+  html_document :
+    toc: yes
+    theme: flatly
+    toc_float: yes
+    keep_md: yes
+---
+
+<!-- <hr> -->
+<!-- # ```{r setup, include=FALSE} -->
+<!-- # knitr::opts_chunk$set(echo = FALSE) -->
+<!-- # library(gridExtra) -->
+<!-- # library(knitr) -->
+<!-- # ``` -->
+
+
+<hr>
+![](images/Page2.png){ width=200% height=50% }
+<hr>
+## **1.0 Ms.c Thesis ** 
+
+### Report and Charts
+![](images/Page1.png)
+
+<hr>
