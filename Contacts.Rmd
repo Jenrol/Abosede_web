@@ -8,7 +8,7 @@ output: html_document
 
 <div class="icons">
   <a href="mailto:jenrolabosede3001(@)gmail.com"><i class="fas fa-envelope fa-2x"></i></a>
-  <a href="www.linkedin.com/in/Jenrola-Abosede"><i class="fab fa-linkedin fa-2x"></i></a>
+  <a href="https://www.linkedin.com/in/abosede-jenrola-3b340419a/"><i class="fab fa-linkedin fa-2x"></i></a>
   <a href="https://github.com/Jenrol"><i class="fab fa-github fa-2x"></i></a>
 </div>
 
